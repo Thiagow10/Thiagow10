@@ -58,7 +58,7 @@ Sou estudante de Engenharia da Computação, apaixonado por criar interfaces int
 <img 
     align="left" 
     alt= "GitHub Stats"
-    height="160px" 
+    height="140px" 
     style="padding-right: 10px;"  
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagow10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
