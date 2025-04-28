@@ -19,7 +19,7 @@ Sou estudante de Engenharia da Computação, apaixonado por criar interfaces int
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -29,7 +29,7 @@ Sou estudante de Engenharia da Computação, apaixonado por criar interfaces int
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -38,7 +38,7 @@ Sou estudante de Engenharia da Computação, apaixonado por criar interfaces int
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="React" 
     width="30px" 
     style="padding-right: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
