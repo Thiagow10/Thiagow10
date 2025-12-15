@@ -1,65 +1,34 @@
-# 👨‍💻 Thiago Machado
-**`Desenvolvedor FrontEnd`**
+## 👋 Olá!
+Me chamo Thiago. Sou estudante de **Engenharia da Computação**, com interesse em **Desenvolvimento Back-End** e em construir soluções eficientes, organizadas e bem estruturadas.
+Atualmente resido em **Jacareí – SP** e estou em busca de oportunidades de aprendizado e crescimento na área de tecnologia.
 
-Sou estudante de Engenharia da Computação, apaixonado por criar interfaces intuitivas e experiências digitais envolventes. Encontrei no desenvolvimento Front-End a combinação perfeita entre criatividade, lógica e tecnologia — e desde então venho me aprofundando em ferramentas como HTML, CSS, JavaScript e frameworks como React.
+Tenho foco no desenvolvimento contínuo das minhas habilidades técnicas, sempre buscando aplicar na prática os conceitos que estudo por meio de projetos e desafios.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧑‍💻 Foco e Interesses
+- Desenvolvimento Back-End
+- Criação de APIs
+- Lógica de programação
+- Bancos de dados e análise de dados
+- Boas práticas de desenvolvimento
 
-<img
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 🛠️ Tecnologias e Ferramentas
+- **Python**
+- **Django** *(em estudo)*
+- **SQL** *(básico)*
+- **Git / GitHub**
+- Lógica de Programação
 
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;"    
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+## 🎓 Formação
+- **Engenharia da Computação** — UNIVESP *(em andamento)*
 
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-<img 
-    align="left" 
-    alt= "GitHub Stats"
-    height="200px" 
-    style="padding-right: 10px;"  
-    src="https://github-readme-stats.vercel.app/api?username=Thiagow10&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<br>
-<img 
-    align="left" 
-    alt= "GitHub Stats"
-    height="140px" 
-    style="padding-right: 10px;"  
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagow10&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+📫 **Contato**  
+- Email: thiagomachado2525@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/thiiago-machado/ 
