@@ -17,8 +17,8 @@ Tenho foco no desenvolvimento contínuo das minhas habilidades técnicas, sempre
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Python**
-- **Django** *(em estudo)*
-- **SQL** *(básico)*
+- **Django**
+- **SQL**
 - **Git / GitHub**
 - Lógica de Programação
 
